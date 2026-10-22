@@ -34,3 +34,7 @@ Open `index.html`, or use `python -m http.server 8000` and visit `http://localho
 - `assets/js/main.js`: nav, filters, accordion and contact form.
 - `assets/js/gallery.js`: accessible gallery carousel.
 - `assets/img/`: preserved local client-provided photographs and logo assets.
+
+## Frontend chatbot preview (October 2026)
+
+A floating **Trendy Tax Assistant** UI is available on all nine pages, including Insights articles. It has welcome messages, four useful topic choices, guided replies, service/contact links, reset/close controls and responsive mobile styling. It is **frontend-only**: free-text messaging and backend/API integration are intentionally not enabled. No visitor chat data is collected or sent. See [`CHATBOT-IMPLEMENTATION.md`](CHATBOT-IMPLEMENTATION.md) for details, file list and setup.
